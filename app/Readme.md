@@ -1,8 +1,9 @@
 # 📈 Crypto Monitor
 
 ### 📌 Sobre o Projeto
-##### O **Crypto Monitor** é um aplicativo Android desenvolvido em Kotlin que exibe a cotação atual do **Bitcoin**, utilizando dados da  API oficial do [Mercado do Bitcoin](https://www.mercadobitcoin.net/api/BTC/ticker/).  
-##### Esse projeto foi desenvolvido durante as aulas do curso **Android Kotlin Developer**, ministrado pelo professor [Ewerton Carreira](https://github.com/carreiras), para colocar em prática os conceitos sobre funcionamento de uma API Rest, retrofit, componentização de layouts e etc.
+
+O **Crypto Monitor** é um aplicativo Android desenvolvido em Kotlin que exibe a cotação atual do **Bitcoin**, utilizando dados da API oficial do [Mercado do Bitcoin](https://www.mercadobitcoin.net/api/BTC/ticker/).  
+Esse projeto foi desenvolvido durante as aulas do curso **Android Kotlin Developer**, ministrado pelo professor [Ewerton Carreira](https://github.com/carreiras), para colocar em prática os conceitos sobre funcionamento de uma API Rest, retrofit, componentização de layouts e etc.
 ---
 
 ### ⚙️ Funcionalidades
@@ -78,7 +79,7 @@ interface MercadoBitcoinService {
 ```
 ---
 
-### 📦 Dependências
+## 📦 Dependências
 
 Retrofit 2.9.0 e Gson converter: retrofit para fazer comunicação com a API externa  e o Gson, uma biblioteca do Google para converter os dados em JSON
 ```kotlin
@@ -100,5 +101,5 @@ implementation("androidx.appcompat:appcompat:1.7.0")
 ```
 
 
-### 🤝 Contribuição
+## 🤝 Contribuição
 Contribuições são bem-vindas! Se você tem alguma ideia ou encontrou um bug, sinta-se à vontade para abrir uma issue ou enviar um pull request.
