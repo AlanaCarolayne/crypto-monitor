@@ -2,19 +2,6 @@
 
 ### 📌 Sobre o Projeto
 
-O **Crypto Monitor** é um aplicativo Android desenvolvido em Kotlin que exibe a cotação atual do **Bitcoin**, utilizando dados da API oficial do [Mercado do Bitcoin](https://www.mercadobitcoin.net/api/BTC/ticker/).  
-Esse projeto foi desenvolvido durante as aulas do curso **Android Kotlin Developer**, ministrado pelo professor [Ewerton Carreira](https://github.com/carreiras), para colocar em prática os conceitos sobre funcionamento de uma API Rest, retrofit, componentização de layouts e etc.
----
-
-### ⚙️ Funcionalidades
-
-- 📊 Exibição da cotação atual do Bitcoin  
-- 🕒 Exibição da data e hora atual  
-- 🔄 Atualização manual dos dados por meio do botão "Atualizar"  
-
----
-### 📌 Sobre o Projeto
-
 #### O **Crypto Monitor** é um aplicativo Android desenvolvido em Kotlin que exibe a cotação atual do **Bitcoin**, utilizando dados da API oficial do [Mercado do Bitcoin](https://www.mercadobitcoin.net/api/BTC/ticker/).
 #### Esse projeto foi desenvolvido durante as aulas do curso **Android Kotlin Developer**, ministrado pelo professor [Ewerton Carreira](https://github.com/carreiras), para colocar em prática os conceitos sobre funcionamento de uma API Rest, retrofit, componentização de layouts e etc.
 ---
@@ -28,10 +15,13 @@ Esse projeto foi desenvolvido durante as aulas do curso **Android Kotlin Develop
 ---
 ### 📸 Telas do projeto
 Tela inicial:
-![Tela Inicial]()
+
+<img src="app/src/main/res/image/inicio.jpeg" width=300 alt="Tela inicial" align="center"/>
+
 
 #### Tela atualizada: A mudança do estado da tela apos o clique no botão "Atualizar".
-![Tela Atualizada]()
+<img src="app/src/main/res/image/atualizado.jpeg" width=300 alt="Tela atualizada" align="center"/>
+
 ---
 
 ### 🛠 Tecnologias e ferramentas utilizadas
